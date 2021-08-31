@@ -1,6 +1,6 @@
 using System;
 
-namespace NetCoreWebApi
+namespace NetCoreWebApi.Model
 {
     public class WeatherForecast
     {
